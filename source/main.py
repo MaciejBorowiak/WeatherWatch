@@ -447,7 +447,7 @@ def main_menu():
             new_data = {"phone": "+48536511079", "city": "Warszawa"}
             json.dump(new_data, json_file)
             update_city("Warszawa", False)
-            update_phone("+48536511079", False)
+            update_phone("+48123456789", False)
 
     initial_time_update()
 

@@ -16,6 +16,8 @@ Programu można używać na dwa sposoby:
   <img src="https://github.com/MaciejBorowiak/WeatherWatch/blob/main/readme_img/WeatherWatch4.png"/>
 </p>
 
+Możemy wykorzystać tą opcję, żeby np. za pomocą narzędzia **PythonAnywhere** otrzymywać prognozę pogody na następne 12 godzin, codziennie o 7 rano
+
 ## Konfiguracja ##
 W celu skonfigurowania aplikacji pod nasze potrzeby musimy uzupełnić przede wszystkim plik ze zmiennymi środowiskowymi (.env):
 
